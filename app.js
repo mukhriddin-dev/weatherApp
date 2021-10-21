@@ -42,7 +42,7 @@ const api = {
 	fg.innerHTML=`${weather.weather[0].main}`
 	console.log(weather);
   }
-  
+//   okok
   function tmsuz(m) {
 	let month = [
 	  "January",
@@ -74,3 +74,5 @@ const api = {
   
 	return `${day} ${date} ${months} ${year}`;
   }
+
+//   mukhriddin
