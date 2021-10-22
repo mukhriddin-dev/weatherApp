@@ -169,6 +169,7 @@ main .temp-in , .fog , .temps{
   }
   
   ::placeholder{
-    color:rgba(0, 0, 0, 0.836);
+    color:rgba(0, 0, 0, 0.76);
+    box-sizing: border-box;
   }
 }
